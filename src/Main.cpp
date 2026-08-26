@@ -1,12 +1,12 @@
 /**
  * Main.cpp
  * CSE 332S
- * Studio Num:
- * Author:
+ * Studio Num: 2
+ * Author: Tenny Dibooglu
 */
 
-#include <iostream>
 
+#include <iostream>
 using namespace std;
 
 int main() {

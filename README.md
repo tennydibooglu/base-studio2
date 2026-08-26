@@ -3,12 +3,14 @@ Repository for submitting studio work
 
 # Responses:
 Students:
-1. John Doe <john.doe@wustl.edu>
+1. Tenny Dibooglu <a.dibooglu@wustl.edu>
 2. 
 3. 
 4. 
 
 
 Question Answers:
-2. 
+2. Hello world
+3. 0
+4. cout & endl
 
